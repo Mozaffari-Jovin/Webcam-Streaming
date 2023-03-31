@@ -1,3 +1,7 @@
+# Programmer's Name: SMJ
+# Date of Issue: 3/31/2023
+
+
 import cv2
 import numpy as np
 import time
